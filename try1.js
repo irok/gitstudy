@@ -2,6 +2,6 @@
 // require library.js
 
 
-alert(1);
+alert(2);
 
 
